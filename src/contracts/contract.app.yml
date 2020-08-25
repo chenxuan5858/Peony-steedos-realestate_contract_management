@@ -1,0 +1,23 @@
+_id: contracts
+name: Contracts
+description: Manage contracts and payments.
+icon_slds: contract_line_item
+is_creator: true
+sort: 1000
+objects:
+  - contracts
+  - contract_receipts
+  - contract_refund
+  - accounts
+  - contacts
+  - contract_types
+  - buildings
+  - room
+  - tasks
+  - events
+  - reports
+mobile_objects: 
+  - contracts
+  - contract_receipts
+  - accounts
+  - contacts
